@@ -1,8 +1,4 @@
-/*
-Julien Nashi
-dijkstraAlgorithm
-COP 3503
- */
+
 import java.util.Scanner;
 import java.io.*;
 
@@ -134,10 +130,7 @@ public class dijkstraAlgorithm {
             System.out.println("error on da files.");
             e.printStackTrace();
         }
-//        float startTimer = System.currentTimeMillis();
-//        float endTimer = System.currentTimeMillis();
-//        float timeElapsed = endTimer - startTimer;
-//        System.out.println("actual time completed: " + timeElapsed);
+
 
     }
 }
